@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocationMap(project_3)</string>
+
+    <string name="mapbox_access_token">pk.eyJ1Ijoiam95LXNlYyIsImEiOiJjazF4MXRteDIwNHFhM21vNDF2anIwZGFuIn0.fPQeTaP2QCPgSiLFilhIPg</string>
+</resources>
